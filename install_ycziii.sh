@@ -2,14 +2,12 @@
 
 clear
 echo -e "\e[1;36m"
-
- __   _____   ____ ___ ____ _____
- \ \ / / _ \ / ___|_ _/ ___|__  /
-  \ V / | | | |  _ | | |     / / 
-   | || |_| | |_| || | |___ / /_ 
-   |_| \___/ \____|___\____/____|
-                                 
-echo -e "\e[0m"
+echo "__   _____   ____ ___ ____ _____"
+ echo "\ \ / / _ \ / ___|_ _/ ___|__  /"
+  echo "\ V / | | | |  _ | | |     / / "
+   echo "| || |_| | |_| || | |___ / /_ "
+   echo "|_| \___/ \____|___\____/____|"
+   echo -e "\e[0m"
 
 echo "🚀 Welcome to the YCZIII Installer!"
 echo "🔧 Powered by YCZIII | GitHub: https://github.com/mohammadyogi"
